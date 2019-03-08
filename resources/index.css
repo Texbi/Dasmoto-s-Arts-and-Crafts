@@ -1,0 +1,39 @@
+/* Customising the main heading */
+h1{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: horizontal;
+  text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+/* Customising the text of all the sub headings */
+
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+/* Background color of all the sub headings */
+
+.Brushes h2{
+  background-color: mediumspringgreen;
+}
+.Frames h2{
+  background-color: lightcoral;
+}
+.Paint h2{
+  background-color: skyblue;
+}
+
+/* Customising the highlighted information in the paragraphs */
+
+span{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
